@@ -1,0 +1,50 @@
+[
+  {
+    "id": "user-ananya",
+    "username": "ananyarao",
+    "displayName": "Ananya Rao",
+    "avatarUrl": "/src/assets/images/avatar_ananya_1794897608306.jpg",
+    "bio": "Spatial designer & textile researcher curating warm modernism, handloom craft, and quiet morning rituals between Bengaluru and Mumbai.",
+    "location": "Bengaluru, India",
+    "website": "ananyastudio.in",
+    "followersCount": 14820,
+    "followingCount": 312,
+    "verified": true
+  },
+  {
+    "id": "user-arjun",
+    "username": "arjunmehta",
+    "displayName": "Arjun Mehta",
+    "avatarUrl": "/src/assets/images/avatar_arjun_1794897608343.jpg",
+    "bio": "Architectural photographer documenting tropical concrete courtyards, heritage sandstone light, and tactile residential objects.",
+    "location": "Kochi & Jaipur, India",
+    "website": "arjunmehta.photo",
+    "followersCount": 28450,
+    "followingCount": 184,
+    "verified": true
+  },
+  {
+    "id": "user-kora",
+    "username": "atelierkora",
+    "displayName": "Atelier Kora",
+    "avatarUrl": "/src/assets/images/pin_terracotta_pottery_1794897603756.jpg",
+    "bio": "Small-batch ceramics, raw linen table objects, and slow-living tableware crafted by independent studios.",
+    "location": "Pondicherry, India",
+    "website": "atelierkora.co",
+    "followersCount": 9640,
+    "followingCount": 95,
+    "verified": true
+  },
+  {
+    "id": "user-vastu",
+    "username": "studiovastu",
+    "displayName": "Studio Vastu",
+    "avatarUrl": "/src/assets/images/pin_abstract_poster_1794897606429.jpg",
+    "bio": "Visual archive of Swiss modernism, Indian heritage geometry, and contemporary print ephemera.",
+    "location": "New Delhi, India",
+    "website": "studiovastu.design",
+    "followersCount": 21100,
+    "followingCount": 240,
+    "verified": false
+  }
+]

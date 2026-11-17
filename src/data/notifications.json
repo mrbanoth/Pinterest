@@ -1,0 +1,42 @@
+[
+  {
+    "id": "notif-1",
+    "type": "collection",
+    "title": "New editorial collection: Monsoon Courtyard Architecture",
+    "detail": "Curated by Arjun Mehta · 4 pins added",
+    "timeAgo": "18m ago",
+    "thumbnailUrl": "/src/assets/images/pin_monsoon_architecture_1794897604209.jpg",
+    "targetCollectionId": "col-monsoon",
+    "unread": true
+  },
+  {
+    "id": "notif-2",
+    "type": "save",
+    "title": "Arjun Mehta saved your Travertine Living Space pin",
+    "detail": "Saved to Warm Stone & Japandi Living",
+    "timeAgo": "2h ago",
+    "thumbnailUrl": "/src/assets/images/pin_japandi_living_1794897601887.jpg",
+    "targetPinId": "pin-101",
+    "unread": true
+  },
+  {
+    "id": "notif-3",
+    "type": "board",
+    "title": "Atelier Kora added 2 new stoneware studies",
+    "detail": "Explore Pleated Washi & Terracotta Vessels",
+    "timeAgo": "6h ago",
+    "thumbnailUrl": "/src/assets/images/pin_ceramic_lamp_1794897608492.jpg",
+    "targetPinId": "pin-106",
+    "unread": false
+  },
+  {
+    "id": "notif-4",
+    "type": "save",
+    "title": "Trending in India: Kulhad Masala Chai & Spice Trays",
+    "detail": "Over 5,100 saves this week in Food & Drink",
+    "timeAgo": "1d ago",
+    "thumbnailUrl": "/src/assets/images/pin_masala_chai_1794897604690.jpg",
+    "targetPinId": "pin-103",
+    "unread": false
+  }
+]

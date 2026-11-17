@@ -1,0 +1,42 @@
+[
+  {
+    "id": "col-monsoon",
+    "title": "Monsoon Courtyard Architecture",
+    "subtitle": "How contemporary Indian residences frame rain, raw concrete, and interior foliage.",
+    "curator": "Arjun Mehta",
+    "coverImage": "/src/assets/images/pin_monsoon_architecture_1794897604209.jpg",
+    "category": "Architecture",
+    "pinIds": ["pin-102", "pin-108", "pin-101", "pin-113"],
+    "featured": true
+  },
+  {
+    "id": "col-handloom",
+    "title": "Indigo, Khadi & Handloom Tailoring",
+    "subtitle": "Natural dye traditions meeting architectural unbleached silhouettes.",
+    "curator": "Ananya Rao",
+    "coverImage": "/src/assets/images/pin_indian_textile_1794897603258.jpg",
+    "category": "Fashion & Craft",
+    "pinIds": ["pin-104", "pin-110", "pin-109"],
+    "featured": true
+  },
+  {
+    "id": "col-mornings",
+    "title": "South Asian Morning Rituals",
+    "subtitle": "Brass davara coffee, kulhad spiced chai, and slow sunlit kitchen tables.",
+    "curator": "Slow Table Collective",
+    "coverImage": "/src/assets/images/pin_filter_coffee_1794897607225.jpg",
+    "category": "Food & Drink",
+    "pinIds": ["pin-103", "pin-111", "pin-107"],
+    "featured": false
+  },
+  {
+    "id": "col-print",
+    "title": "Bauhaus to Botanical Print Archive",
+    "subtitle": "Graphic geometry, walnut studios, and museum-grade cotton rag works.",
+    "curator": "Studio Vastu",
+    "coverImage": "/src/assets/images/pin_abstract_poster_1794897606429.jpg",
+    "category": "Art & Print",
+    "pinIds": ["pin-105", "pin-114", "pin-112", "pin-106"],
+    "featured": false
+  }
+]

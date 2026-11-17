@@ -1,0 +1,6 @@
+{
+  "name": "Pinterest — Visual Discovery & Idea Boards",
+  "description": "Discover recipes, home ideas, style inspiration, architectural craft, and curated boards in an elevated visual discovery studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

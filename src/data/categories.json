@@ -1,0 +1,58 @@
+[
+  {
+    "id": "cat-all",
+    "label": "All",
+    "slug": "all",
+    "coverImage": "/src/assets/images/pin_japandi_living_1794897601887.jpg",
+    "tagline": "Curated visual discovery across design, craft, and living"
+  },
+  {
+    "id": "cat-home",
+    "label": "Home Decor",
+    "slug": "Home Decor",
+    "coverImage": "/src/assets/images/pin_ceramic_lamp_1794897608492.jpg",
+    "tagline": "Warm stone, tactile textiles, and calm sculptural interiors"
+  },
+  {
+    "id": "cat-arch",
+    "label": "Architecture",
+    "slug": "Architecture",
+    "coverImage": "/src/assets/images/pin_monsoon_architecture_1794897604209.jpg",
+    "tagline": "Courtyard residences, sandstone geometry, and light study"
+  },
+  {
+    "id": "cat-fashion",
+    "label": "Fashion & Craft",
+    "slug": "Fashion & Craft",
+    "coverImage": "/src/assets/images/pin_editorial_fashion_1794897604735.jpg",
+    "tagline": "Handloom weaves, indigo block prints, and timeless tailoring"
+  },
+  {
+    "id": "cat-food",
+    "label": "Food & Drink",
+    "slug": "Food & Drink",
+    "coverImage": "/src/assets/images/pin_masala_chai_1794897604690.jpg",
+    "tagline": "Kulhad chai, South Indian mornings, and artisanal patisserie"
+  },
+  {
+    "id": "cat-art",
+    "label": "Art & Print",
+    "slug": "Art & Print",
+    "coverImage": "/src/assets/images/pin_abstract_poster_1794897606429.jpg",
+    "tagline": "Swiss typography, botanical watercolors, and tactile ceramics"
+  },
+  {
+    "id": "cat-travel",
+    "label": "Travel",
+    "slug": "Travel",
+    "coverImage": "/src/assets/images/pin_amalfi_coast_1794897608606.jpg",
+    "tagline": "Sunlit cliffside terraces and heritage sandstone corridors"
+  },
+  {
+    "id": "cat-workspace",
+    "label": "Workspace",
+    "slug": "Workspace",
+    "coverImage": "/src/assets/images/pin_minimal_desk_1794897606083.jpg",
+    "tagline": "Walnut desks, natural daylight, and analog sketching rituals"
+  }
+]

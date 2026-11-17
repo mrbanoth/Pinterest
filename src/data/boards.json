@@ -1,0 +1,42 @@
+[
+  {
+    "id": "board-1",
+    "title": "Warm Stone & Japandi Living",
+    "description": "Lime plaster walls, raw travertine surfaces, and diffused evening table lighting.",
+    "ownerId": "user-ananya",
+    "pinIds": ["pin-101", "pin-106", "pin-109", "pin-112"],
+    "isPrivate": false,
+    "updatedAt": "2h ago",
+    "category": "Home Decor"
+  },
+  {
+    "id": "board-2",
+    "title": "Tropical Concrete & Heritage Light",
+    "description": "Courtyard residences, monsoon materiality, and sandstone arches across India.",
+    "ownerId": "user-arjun",
+    "pinIds": ["pin-102", "pin-108", "pin-113"],
+    "isPrivate": false,
+    "updatedAt": "1d ago",
+    "category": "Architecture"
+  },
+  {
+    "id": "board-3",
+    "title": "Slow Morning Table",
+    "description": "Kulhad chai, South Indian filter coffee, and quiet cafe mornings.",
+    "ownerId": "user-ananya",
+    "pinIds": ["pin-103", "pin-107", "pin-111"],
+    "isPrivate": false,
+    "updatedAt": "3d ago",
+    "category": "Food & Drink"
+  },
+  {
+    "id": "board-4",
+    "title": "Craft, Print & Indigo Archive",
+    "description": "Block-printed handloom textiles, Swiss grid posters, and archival botanical plates.",
+    "ownerId": "user-vastu",
+    "pinIds": ["pin-104", "pin-105", "pin-110", "pin-114"],
+    "isPrivate": false,
+    "updatedAt": "5d ago",
+    "category": "Art & Print"
+  }
+]
